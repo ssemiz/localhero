@@ -1,4 +1,4 @@
 <?php
 echo "Hallo";
-echo "Hallo nochmal";
+echo "Hallo nochmal x 3";
 ?>
